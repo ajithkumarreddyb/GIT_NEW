@@ -1,2 +1,0 @@
-hello 
-its for sample line for using git stash
